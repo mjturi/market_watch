@@ -1,0 +1,14 @@
+BTC-USD, bitcoin support resistance
+ETH-USD, ethereum support resistance
+DOGE-USD, dogecoin support resistance
+LTC-USD, litecoin support resistance
+BCH-USD, bitcoin cash target
+ETC-USD, ETC ethereum classic
+BSV-USD, bitcoin-sv
+USDT-USD, Tether USD value
+ALGO-USD, ALGO support resistance
+TRX-USD, TRX support resistance
+LUNA1-USD, terra support resistance
+BNB-USD, binance coin support resistance
+AVAX-USD, avalanche support resistance
+XMR-USD, monero support resistance
